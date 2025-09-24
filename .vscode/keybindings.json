@@ -1,0 +1,7 @@
+[
+  {
+    "key": "ctrl+alt+r",
+    "command": "workbench.action.reloadWindow",
+    "when": "editorTextFocus"
+  }
+]
