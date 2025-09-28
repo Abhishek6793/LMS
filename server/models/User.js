@@ -1,6 +1,7 @@
 import express from 'express';
 import mongoose from 'mongoose'
-import { Timestamp } from './../node_modules/bson/src/timestamp';
+import Course from './Course.js';
+
 
 const userSchema=new mongoose.Schema(
     {
