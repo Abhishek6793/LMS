@@ -4,7 +4,7 @@ import { useParams, useNavigate } from 'react-router-dom'
 import { assets } from "../../assets/assets"
 import humanizeDuration from 'humanize-duration'
 import YouTube from 'react-youtube'
-import Footer from '../../components/student/footer'
+import Footer from '../../components/student/Footer'
 import Rating from '../../components/student/Rating'
 import axios from 'axios'
 import { toast } from 'react-toastify'
